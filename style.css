@@ -50,7 +50,7 @@ header h1 {
 }
 
 .image-container img {
-    width: 100%;
+    width: 20%;
     height: auto;
     display: block;
     object-fit: cover; /* Maintain aspect ratio and cover container */
